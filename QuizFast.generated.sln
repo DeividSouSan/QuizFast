@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizFast", "QuizFast\QuizFast.csproj", "{7EE178AE-4599-4908-9A1A-080D22F7958A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuizFast.Tests", "QuizFast.Tests\QuizFast.Tests.csproj", "{AD79F76C-721D-445E-A33B-2F2A06104672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EE178AE-4599-4908-9A1A-080D22F7958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE178AE-4599-4908-9A1A-080D22F7958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE178AE-4599-4908-9A1A-080D22F7958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE178AE-4599-4908-9A1A-080D22F7958A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD79F76C-721D-445E-A33B-2F2A06104672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD79F76C-721D-445E-A33B-2F2A06104672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD79F76C-721D-445E-A33B-2F2A06104672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD79F76C-721D-445E-A33B-2F2A06104672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78CACBBF-84DC-480E-8346-DD827A60D16F}
+	EndGlobalSection
+EndGlobal
